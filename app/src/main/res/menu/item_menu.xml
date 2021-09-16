@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_home"
+        android:title="홈"
+        android:icon="@drawable/icon_ionic_md_home" />
+    <item android:id="@+id/nav_mymed"
+        android:title="내 약품"
+        android:icon="@drawable/icon_open_medical_cross" />
+    <item android:id="@+id/nav_medsearch"
+        android:title="의약품 검생"
+        android:icon="@drawable/icon_awesome_notes_medical" />
+    <item android:id="@+id/nav_foodsearch"
+        android:title="식품검색"
+        android:icon="@drawable/icon_map_food" />
+    <item android:id="@+id/nav_myPage"
+        android:title="마이페이지"
+        android:icon="@drawable/icon_ionic_md_person" />
+</menu>
